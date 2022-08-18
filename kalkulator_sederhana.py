@@ -26,3 +26,5 @@ elif operasi == '/' or operasi == ':':
   print(f'Hasil operasi dari {bilangan_1} : {bilangan_2} = {hasil}')
 else:
   print('Tidak valid')
+  
+  wait = input("PRESS ENTER TO CONTINUE.")
