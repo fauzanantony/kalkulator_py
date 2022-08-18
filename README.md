@@ -1,1 +1,1 @@
-# Kalkulator menggunakan Python
+# Kalkulator Sederhana menggunakan Python
